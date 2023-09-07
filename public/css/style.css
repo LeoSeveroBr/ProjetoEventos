@@ -1,0 +1,22 @@
+* {
+    font-family: 'roboto';
+}
+
+div {
+    text-align: center;
+    size: 100px;
+}
+
+p {
+    font-size: 50px;
+    color: blueviolet;
+}
+
+footer {
+    text-align: center;
+}
+
+#navbar img {
+    width: 35px;
+    padding-left: 10px;
+}
